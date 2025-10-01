@@ -20,3 +20,6 @@ Slice data by product, region, date, and customer for customized views.
 
 * Objective:
 To create a powerful sales performance tool that helps businesses like Blinkit monitor growth, optimize operations, and make strategic decisions based on real-time data.
+
+overview report 
+https://github.com/Sajidhussain02/blinkit-power-bi-report/blob/main/blinkit%20report%20view.png
